@@ -1,0 +1,19 @@
+Arrays in Python
+
+:-collection of data same data type
+
+
+1.fruites= ["kivi","apple","banana"]
+print(fruites)
+
+2. fruites= ["kivi","apple","banana"]
+print(fruites[1])
+
+3. fruites= ["kivi","apple","banana"]
+for x in fruites:
+    print(x)
+
+4. fruites= ["kivi","apple","banana"]
+for x in fruites:
+    fruites[1]="orange"
+    print(x)
